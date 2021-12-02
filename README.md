@@ -26,10 +26,15 @@
 
 ![install_4](https://user-images.githubusercontent.com/94627358/144376840-84b9edf7-ea15-4bed-9717-e952b562574f.PNG)
 ---
-### vimgolf의 문제 리스트
+### vimgolf의 실행 방법
+**vimgolf의 문제 리스트 확인**
 ```$vimgolf list```
 
 ![list](https://user-images.githubusercontent.com/94627358/144377425-47186a1e-33c3-4dfc-b2a6-50f9ee758aa1.PNG)
+**vimgolf 문제 참여 방법***
+```$vimgolf put <problem hash ID>(or number)```
+
+![1](https://user-images.githubusercontent.com/94627358/144378196-552d4c5a-231e-4aeb-ad47-75829ad59587.PNG)
 
 ## 문제 1
 
