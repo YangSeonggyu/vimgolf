@@ -2,11 +2,11 @@
 20195122_양성규
 # 목차
 1. [vimgolf란](#vimgolf란)
-2. [Add quotes to ansible playbook](#playbook)
-3. [simple replacements](#simplereplacements)
-4. [문제 3](#Satisfythegolinter)
-5. [문제 4](#Plottingsomevariablesinpython)
-6. [문제 5](#Pythondataclasses)
+2. [Add quotes to ansible playbook](#Add-quotes-to-ansible-playbook)
+3. [simple replacements](#simple-replacements)
+4. [문제 3](#Satisfy-the-go-linter)
+5. [문제 4](#Plotting-some-variables-in-python)
+6. [문제 5](#Python-ataclasses)
 
 # vimgolf란
 타수를 줄여야 하는 골프처럼, Vim을 이용하여 여러 문제들의 적은 키보드 타수 기록에 도전하는 곳이다.
@@ -57,7 +57,7 @@
 |End|커서가 있는 줄의 마지막으로 이동합니다.|
 |ZZ|저장 후 종료|
 
-# simplereplacements
+# simple replacements
 - 최고점 : 19
 - 나의 점수 : 27
 
