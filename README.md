@@ -2,7 +2,7 @@
 20195122_양성규
 # 목차
 1. [vimgolf란](#vimgolf란)
-2. [Add quotes to ansible playbook](#Addquotestoansibleplaybook)
+2. [Add quotes to ansible playbook](#playbook)
 3. [simple replacements](#simplereplacements)
 4. [문제 3](#Satisfythegolinter)
 5. [문제 4](#Plottingsomevariablesinpython)
@@ -40,7 +40,7 @@
 
 ![1](https://user-images.githubusercontent.com/94627358/144378196-552d4c5a-231e-4aeb-ad47-75829ad59587.PNG)
 
-# Add
+# Add quotes to ansible playbook
 - 최고점 : 8
 - 나의 점수 : 9
 
@@ -57,7 +57,7 @@
 |End|커서가 있는 줄의 마지막으로 이동합니다.|
 |ZZ|저장 후 종료|
 
-# simple replacements
+# simplereplacements
 - 최고점 : 19
 - 나의 점수 : 27
 
