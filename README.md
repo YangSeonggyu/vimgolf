@@ -39,11 +39,22 @@
 ![1](https://user-images.githubusercontent.com/94627358/144378196-552d4c5a-231e-4aeb-ad47-75829ad59587.PNG)
 
 ## 문제 1
+```GWi"<End><C-@>ZZ```
+![1](https://user-images.githubusercontent.com/94627358/144409362-acb9a283-979e-4fe0-8b4e-27d0927ea83c.gif)
 
 ## 문제 2
+```%s/sublime\|emacs/vim/g<CR>ZZ```
+![2](https://user-images.githubusercontent.com/94627358/144409380-a9e2be21-bb29-45d5-8831-06e2b552ef7c.gif)
 
 ## 문제 3
+```5GqaO// <C-N> TODO<Esc><Up>q@AZZ```
+![3](https://user-images.githubusercontent.com/94627358/144409399-11b4e4b1-0f25-49e8-992a-d61b18305288.gif)
 
 ## 문제 4
+```9wiabs(<Right><Right>)<Esc>qaYp<C-A>w<C-A>14w<C-A>q2@Aj3dd12wrg<Up>rr<Up>rb<Esc>ZZ```
+![4](https://user-images.githubusercontent.com/94627358/144409415-296709fa-4195-41c1-8ab8-9aad173e338b.gif)
 
 ## 문제 5
+```Gbas<C-N><C-N>,n<C-N>,a<C-N>,sc<C-N><Esc>ZZ```
+![5](https://user-images.githubusercontent.com/94627358/144409462-890ee5ac-afb1-45bc-869c-98c4ed631c5b.gif)
+
