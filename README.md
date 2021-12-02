@@ -41,7 +41,7 @@
 ![1](https://user-images.githubusercontent.com/94627358/144378196-552d4c5a-231e-4aeb-ad47-75829ad59587.PNG)
 
 # 문제 1
-###Add quotes to ansible playbook
+### Add quotes to ansible playbook
 - 최고점 : 8
 - 나의 점수 : 9
 
@@ -59,7 +59,7 @@
 |ZZ|저장 후 종료|
 
 # 문제 2
-###simple replacements
+### simple replacements
 - 최고점 : 19
 - 나의 점수 : 27
 
@@ -79,7 +79,7 @@
 |:g/pattern/s/old/new/g|pattern이 있는 모든 행의 old를 new로 교체|
 
 # 문제 3
-###Satisfy the go linter
+### Satisfy the go linter
 - 최고점 : 20
 - 나의 점수 : 21
 
@@ -98,7 +98,7 @@
 |ZZ|저장 후 종료|
   
 # 문제 4
-###Plotting some variables in python
+### Plotting some variables in python
 - 최고점 : 34
 - 나의 점수 : 44
   
@@ -120,7 +120,7 @@
 |ZZ|저장 후 종료|
   
 # 문제 5
-###Python dataclasses
+### Python dataclasses
 - 최고점 : 19
 - 나의 점수 : 19
   
