@@ -39,8 +39,15 @@
 ![1](https://user-images.githubusercontent.com/94627358/144378196-552d4c5a-231e-4aeb-ad47-75829ad59587.PNG)
 
 ## 문제 1
-```GWi"<End><C-@>ZZ```
-![1](https://user-images.githubusercontent.com/94627358/144409362-acb9a283-979e-4fe0-8b4e-27d0927ea83c.gif)
+```GWi"<End>"<Esc>ZZ```
+![1](https://user-images.githubusercontent.com/94627358/144412286-923167e5-b803-4c50-be14-03ccdda44f42.gif)
+|명령어|내용|
+|:---:|:---:|
+|G|파일의 끝으로 이동합니다.(대문자로 사용해야 함)|
+|W|커서를 다음 단어로 이동합니다.|
+|i|커서 위치에서 입력모드로 전환합니다.|
+|End|커서가 있는 줄의 마지막으로 이동합니다.|
+|ZZ|저장 후 종료|
 
 ## 문제 2
 ```%s/sublime\|emacs/vim/g<CR>ZZ```
