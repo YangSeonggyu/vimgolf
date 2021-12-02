@@ -2,11 +2,12 @@
 20195122_양성규
 ## 목차
 1. [vimgolf란](#vimgolf란)
-2. [문제 1](#Add quotes to ansible playbook)
-3. [문제 2](#simple replacements)
-4. [문제 3](#Satisfy the go linter)
-5. [문제 4](#Plotting some variables in python)
-6. [문제 5](#Python dataclasses)
+2. [Add quotes to ansible playbook](#Add)
+3. [simple replacements](#simple replacements)
+4. [문제 3](#awk)
+5. [문제 4](#awk)
+6. [문제 5](#awk)
+
 ## vimgolf란
 타수를 줄여야 하는 골프처럼, Vim을 이용하여 여러 문제들의 적은 키보드 타수 기록에 도전하는 곳이다.
 ### 설치 방법
@@ -39,7 +40,7 @@
 
 ![1](https://user-images.githubusercontent.com/94627358/144378196-552d4c5a-231e-4aeb-ad47-75829ad59587.PNG)
 
-## Add quotes to ansible playbook
+## Add
 - 최고점 : 8
 - 나의 점수 : 9
 
