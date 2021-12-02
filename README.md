@@ -1,6 +1,6 @@
 # 오픈소스SW개론 과제(vimgolf)
 20195122_양성규
-## 목차
+# 목차
 1. [vimgolf란](#vimgolf란)
 2. [Add quotes to ansible playbook](#Add)
 3. [simple replacements](#simple replacements)
@@ -8,7 +8,7 @@
 5. [문제 4](#awk)
 6. [문제 5](#awk)
 
-## vimgolf란
+# vimgolf란
 타수를 줄여야 하는 골프처럼, Vim을 이용하여 여러 문제들의 적은 키보드 타수 기록에 도전하는 곳이다.
 ### 설치 방법
 ```sudo apt update```
@@ -40,7 +40,7 @@
 
 ![1](https://user-images.githubusercontent.com/94627358/144378196-552d4c5a-231e-4aeb-ad47-75829ad59587.PNG)
 
-## Add
+# Add
 - 최고점 : 8
 - 나의 점수 : 9
 
@@ -57,7 +57,7 @@
 |End|커서가 있는 줄의 마지막으로 이동합니다.|
 |ZZ|저장 후 종료|
 
-## simple replacements
+# simple replacements
 - 최고점 : 19
 - 나의 점수 : 27
 
@@ -76,7 +76,7 @@
 |:%s/old/new/gc|문서 전체에서 old를 new로 확인하며 교체|
 |:g/pattern/s/old/new/g|pattern이 있는 모든 행의 old를 new로 교체|
 
-## Satisfy the go linter
+# Satisfy the go linter
 - 최고점 : 20
 - 나의 점수 : 21
 
@@ -94,7 +94,7 @@
 |@a|저장된 a매크로를 실행한다.|
 |ZZ|저장 후 종료|
   
-## Plotting some variables in python
+# Plotting some variables in python
 - 최고점 : 34
 - 나의 점수 : 44
   
@@ -115,7 +115,7 @@
 |r|한 글자만 변경한다.|
 |ZZ|저장 후 종료|
   
-## Python dataclasses
+# Python dataclasses
 - 최고점 : 19
 - 나의 점수 : 19
 **```Gbas<C-N><C-N>,n<C-N>,a<C-N>,sc<C-N><Esc>ZZ```**
