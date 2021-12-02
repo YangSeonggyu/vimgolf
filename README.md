@@ -32,6 +32,7 @@
 ```$vimgolf list```
 
 ![list](https://user-images.githubusercontent.com/94627358/144377425-47186a1e-33c3-4dfc-b2a6-50f9ee758aa1.PNG)
+
 **vimgolf 문제 참여 방법**
 
 ```$vimgolf put <problem hash ID>(or number)```
