@@ -22,10 +22,15 @@
 
 ![install_2](https://user-images.githubusercontent.com/94627358/144376839-ab2c38fa-73a7-460e-a1c8-bf47c4727b43.PNG)
 ---
-
 ```sudo pip install vimgolf```
+
 ![install_4](https://user-images.githubusercontent.com/94627358/144376840-84b9edf7-ea15-4bed-9717-e952b562574f.PNG)
 ---
+### vimgolf list
+```$vimgolf list```
+
+![list](https://user-images.githubusercontent.com/94627358/144377425-47186a1e-33c3-4dfc-b2a6-50f9ee758aa1.PNG)
+
 
 ## 문제 1
 ## 문제 2
