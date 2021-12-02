@@ -3,7 +3,7 @@
 # 목차
 1. [vimgolf란](#vimgolf란)
 2. [Add quotes to ansible playbook](#Add)
-3. [simple replacements](#simple replacements)
+3. [simple replacements](#simplereplacements)
 4. [문제 3](#awk)
 5. [문제 4](#awk)
 6. [문제 5](#awk)
@@ -27,7 +27,7 @@
 
 ![install_4](https://user-images.githubusercontent.com/94627358/144376840-84b9edf7-ea15-4bed-9717-e952b562574f.PNG)
 ---
-### vimgolf의 실행 방법
+## vimgolf의 실행 방법
 **vimgolf의 문제 리스트 확인**
 
 ```$vimgolf list```
